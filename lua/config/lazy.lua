@@ -50,4 +50,9 @@ require("lazy").setup({
       },
     },
   },
+  opts = {
+    dashboard = {
+      enabled = true,
+    },
+  },
 })
